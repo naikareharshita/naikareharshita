@@ -7,13 +7,11 @@
 
 - 📫Reach me **harshitanaikare@gmail.com**
 
-<h3 align="left">Connect:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshitanaikare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitanaikare" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https:harshunaikare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https:harshunaikare" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshitanaikare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshitanaikare" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshitanaikare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitanaikare/" height="30" width="40" /></a>
+### 🔗 Connect
+<p>
+&emsp;<a href="https://www.linkedin.com/in/harshitanaikare/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
+
 
 ### ⚡ Technologies
 &emsp;![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![MySQL](https://img.shields.io/badge/MySQL-red) 
